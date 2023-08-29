@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shweta
 - 🌱 I’m currently an undergraduate CS student.
 - 🤝 I’m looking to collaborate on some simple projects. 
-- 📫 Tou can reach me through my mail: rsnayal4@gmail.com 
+- 📫 You can reach me through my mail: rsnayal4@gmail.com 
 
 <!---
 sonu359/sonu359 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
